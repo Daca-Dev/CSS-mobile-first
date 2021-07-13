@@ -99,7 +99,7 @@ header img {
     width: 1.3rem;
     height: .8rem;
     margin-left: 1rem;
-    background-image: url('../assets/icons/down.svg');
+    background-image: url('./assets/icons/down.svg');
 }
 
 main {
@@ -120,7 +120,7 @@ main {
     width: 20rem;
     height: 20rem;
     margin: 0 auto 5rem;
-    background: url('../assets/images/bitcoin.svg');
+    background: url('./assets/images/bitcoin.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
